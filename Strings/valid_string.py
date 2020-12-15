@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-
+# check if string is valid
 def isValid(s):
     # Go over string and count how many times string occured
     char_dict = {}
